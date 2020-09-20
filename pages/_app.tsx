@@ -67,6 +67,7 @@ export default function MyApp({ Component, pageProps }) {
                         href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap"
                         rel="stylesheet"
                     />
+                    <link rel="manifest" href="/manifest.json" />
                 </Head>
                 <Normalize />
                 <GlobalStyle />

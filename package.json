@@ -6,7 +6,6 @@
     "dev": "next dev",
     "build": "next build && next export",
     "start": "next start",
-    "postbuild": "next-on-netlify",
     "lint": "eslint '**/*.ts' '**/*.tsx'",
     "test": "jest"
   },
@@ -16,7 +15,6 @@
     "immutable": "^4.0.0-rc.12",
     "next": "9.5.3",
     "next-offline": "^5.0.2",
-    "next-on-netlify": "^2.4.0",
     "next-pwa": "^3.1.3",
     "react": "16.13.1",
     "react-dom": "16.13.1",
