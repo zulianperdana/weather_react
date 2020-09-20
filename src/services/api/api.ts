@@ -46,7 +46,7 @@ export class Api {
         if (!response.ok) {
             const problem = getGeneralApiProblem(response);
             if (problem) {
-                alert(problem);
+                alert(problem.kind);
                 return problem;
             }
         }
