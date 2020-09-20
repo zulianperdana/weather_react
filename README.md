@@ -11,4 +11,4 @@ video url https://streamable.com/i434ma
 
 ## Uncompleted Features
 
-Some of the features are unable to run in http mode, for example, fetch current location, and offline capabilities. I am unable to run on https mode because weatherstack.com API is only available on http with free/basic account. However i believe that those features are able to be ran in my local development (localhost)
+Some of the features are unable to run in http mode, for example, fetch current location, and offline capabilities. I am unable to run on https mode because weatherstack.com API is only available on http with free/basic account (i cant find any credit card that accepted by weatherstack). However i believe that those features are able to be ran in my local development (localhost)
